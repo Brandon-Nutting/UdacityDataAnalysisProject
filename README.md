@@ -46,3 +46,6 @@ I wanted to answer the following three main questions:
   <li>Data obtained from: https://www.kaggle.com/datasets/zynicide/wine-reviews</li>
   <li>Helpful article regarding categorical variables: https://blog.knoldus.com/how-to-find-correlation-value-of-categorical-variables/</li>
 </ol>
+
+# Blog Post:
+Link to a blog post covering this project can be found [here](https://medium.com/@brandon.c.nutting/machine-learning-wine-c7d3b2cc20bc).
